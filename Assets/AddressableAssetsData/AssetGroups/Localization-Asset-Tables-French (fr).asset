@@ -10,27 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Localization-String-Tables-Russian (Russia) (ru-RU)
+  m_Name: Localization-Asset-Tables-French (fr)
   m_EditorClassIdentifier: 
-  m_GroupName: Localization-String-Tables-Russian (Russia) (ru-RU)
+  m_GroupName: Localization-Asset-Tables-French (fr)
   m_Data:
     m_SerializedData: []
-  m_GUID: 15a6a3bde16c84558b2b2a0b04a1d7a8
+  m_GUID: cb8537dc2c25b454c8f79553d0430b8a
   m_SerializeEntries:
-  - m_GUID: 16f2f3992ecb0470fbaae5c933acb3fc
-    m_Address: Main_ru-RU
+  - m_GUID: 6ab805b9912134613aa5b45313981fd3
+    m_Address: MainMenu_Image_fr
     m_ReadOnly: 1
     m_SerializedLabels:
-    - Locale-ru-RU
-  - m_GUID: 61a1a1be9780643cab16ed95be382cd4
-    m_Address: MainMenu_Text_ru-RU
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-ru-RU
+    - Locale-fr
     - Preload
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: f2fd3f2671b0342c085196b05069e11a, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 430a6d5367764465c8fdbc99ea882e9c, type: 2}
-    - {fileID: 11400000, guid: a52f6e98161d842d389d9618ba1b6daf, type: 2}
+    - {fileID: 11400000, guid: e90c5d752d0bb46ec8d1c69595647d25, type: 2}
+    - {fileID: 11400000, guid: 00e4edfa760ce4201957f8e753b7ee4b, type: 2}
